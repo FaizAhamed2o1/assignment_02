@@ -1,0 +1,51 @@
+.table{
+
+	margin-top: 30px;
+	background-color: white;
+	text-align: -webkit-center;
+
+}
+
+h1{
+
+	    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    background-color: #639f4f;
+    color: #ddfed3;
+}
+
+thead{
+
+	    background-color: #45629d;
+    color: #eaf7ff;
+    font-size: 32px;    
+    border: 5px solid;
+    border-color: black;
+}
+
+tbody{
+	font-size: 20px;
+}
+
+ul{
+	margin: 2px;
+}
+
+.even{
+
+	background-color: #acbad3;
+}
+
+table{
+	border-spacing: 3px;
+    width: 80%;
+    background-color: #ecfaf9;
+    border-collapse: collapse;
+}
+
+th, td{
+	padding: 5px;
+	    border: 5px solid;
+    border-color: black;
+}
